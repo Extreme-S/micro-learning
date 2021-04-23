@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EasyApp</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="account_hint">请输入用户名</string>
+    <string name="pwd_hint">请输入密码</string>
+    <string name="btn1">按钮1</string>
+    <string name="btn2">按钮2</string>
+    <string name="btn3">按钮3</string>
+
+</resources>
